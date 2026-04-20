@@ -1,3 +1,0 @@
-C:/Users/heste/Desktop/gamedev/1bitjam/build/CMakeFiles/index.dir
-C:/Users/heste/Desktop/gamedev/1bitjam/build/CMakeFiles/edit_cache.dir
-C:/Users/heste/Desktop/gamedev/1bitjam/build/CMakeFiles/rebuild_cache.dir
